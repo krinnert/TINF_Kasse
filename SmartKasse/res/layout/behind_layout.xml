@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_width="fill_parent"
         android:textSize="25dp"
-        android:text="Einstellungen"/> "
+        android:text="Einstellungen"
+        android:clickable="true"/>
 
 </RelativeLayout>
