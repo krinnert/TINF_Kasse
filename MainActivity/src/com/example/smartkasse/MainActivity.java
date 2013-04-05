@@ -7,7 +7,7 @@ import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.view.Menu;
 import com.slidingmenu.lib.SlidingMenu;
 import com.slidingmenu.lib.app.SlidingActivity;
-//changed by KR
+//test kevin
 public class MainActivity extends SlidingActivity {
 
     @Override
