@@ -9,7 +9,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 import com.slidingmenu.lib.SlidingMenu;
 import com.slidingmenu.lib.app.SlidingActivity;
-//IT WORKS BY KR
+//Reward Testing
 public class MainActivity extends SlidingActivity {
 
     @Override
@@ -38,7 +38,7 @@ public class MainActivity extends SlidingActivity {
     	
     	switch (item.getItemId()) {
 			case R.id.action_settings:
-			Toast.makeText(this, "Settings gedrückt", Toast.LENGTH_SHORT).show();
+			Toast.makeText(this, "Settings gedrï¿½ckt", Toast.LENGTH_SHORT).show();
 			break;
 			case android.R.id.home:
 			toggle();
