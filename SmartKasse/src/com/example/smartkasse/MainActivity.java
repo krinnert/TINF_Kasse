@@ -9,7 +9,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 import com.slidingmenu.lib.SlidingMenu;
 import com.slidingmenu.lib.app.SlidingActivity;
-//Reward Testing
+//Reward Testing ... Test Felix
 public class MainActivity extends SlidingActivity {
 
     @Override
